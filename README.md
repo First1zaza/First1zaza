@@ -6,8 +6,8 @@ Hi!👋 I am FirstZxD. You can call me First. So I am Full-Stack Web Application
 
 ### Languages
 
-<a><img src="https://m1r.ai/9/r7exp.png" width="36" height="36" alt="JS"/></a>
-<a><img src="https://m1r.ai/9/o4pyt.png" width="36" height="36" alt="PHP"/></a>
+<a><img src="https://m1r.ai/9/onoc5.png" width="36" height="36" alt="PHP"/></a>
+<a><img src="https://m1r.ai/9/e6h6a.png" width="36" height="36" alt="JS"/></a>
 
 ### Framework
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
