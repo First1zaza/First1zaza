@@ -1,7 +1,6 @@
-Hi 👋 My name is Apiwich Visarnlerdsiri
+Apiwich Visarnlerdsiri | Web Application Developer
 =======================================
 
-Web Developer
 -------------
 
 * 🌍  I'm based in Chachoengsao
