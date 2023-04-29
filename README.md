@@ -1,8 +1,6 @@
 Apiwich Visarnlerdsiri | Web Application Developer
 =======================================
 
--------------
-
 * 🌍  I'm based in Chachoengsao
 * ✉️  You can contact me at [visarnlerdsiri@gmail.com](mailto:visarnlerdsiri@gmail.com)
 * 🧠  I'm learning NuxtJs, NextJs, NestJs
