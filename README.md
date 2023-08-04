@@ -6,8 +6,10 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 
 ### Languages
 
-<a><img src="https://m1r.ai/9/onoc5.png" width="36" height="36" alt="PHP"/></a>
-<a><img src="https://m1r.ai/9/e6h6a.png" width="36" height="36" alt="JS"/></a>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+</p>
 
 ### Framework
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
