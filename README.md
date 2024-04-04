@@ -1,6 +1,6 @@
 # FirstZxD | Web Application Developer 
 Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contact me at Email: <a>visarnlerdsiri@gmail.com</a>. Nice to meet you!
-<br><br>
+<br><br><br>
 
 ## Languages and Tools
 ### Backend
@@ -12,10 +12,12 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 	<img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NodeJS.png" width="36" height="36" />
 	</span>
 </p>
+<br><br><br>
 
 ## Socials
 
 <p align="left"> <a href="https://discord.com/users/banana_007_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/apiwich.visarnlerdsiri.5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/First1zaza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<br><br><br>
 
 ## GitHub Stats
 
