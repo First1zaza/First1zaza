@@ -3,6 +3,13 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 <br><br><br>
 
 ## Languages and Tools
+### Frontend
+<p>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/React.png" width="40" height="40" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NextJS.png" width="40" height="40" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/VueJS.png" width="40" height="40" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NuxtJS.png" width="40" height="40" /></span>
+</p>
 ### Backend
 <p>
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NodeJS.png" width="40" height="40" /></span>
@@ -10,6 +17,7 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NestJS.png" width="40" height="40" /></span>
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/PHP.png" width="40" height="40" /></span>
 </p>
+
 <br><br><br>
 
 ## Socials
