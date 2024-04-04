@@ -12,6 +12,8 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NuxtJS.png" width="40" height="40" /></span>
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/HTML.png" width="40" height="40" /></span>
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/CSS.png" width="40" height="40" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/Bootstrap.png" width="40" height="40" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/TailwindCSS.png" width="40" height="40" /></span>
 </p>
 
 ### Backend
@@ -22,8 +24,6 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/Express.png" width="40" height="40" /></span>
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NestJS.png" width="40" height="40" /></span>
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/PHP.png" width="40" height="40" /></span>
-	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/Bootstrap.png" width="40" height="40" /></span>
-	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/TailwindCSS.png" width="40" height="40" /></span>
 </p>
 
 ### Database
