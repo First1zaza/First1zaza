@@ -3,6 +3,10 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 
 <br>
 
+## Contact
+
+<br>
+
 ## Languages and Tools
 ### Frontend
 <p>
@@ -36,12 +40,6 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 <p>
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/Docker.png" width="40" height="40" /></span>
 </p>
-
-<br>
-
-## Socials
-
-<p align="left"> <a href="https://discord.com/users/banana_007_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/apiwich.visarnlerdsiri.5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/First1zaza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 <br>
 
