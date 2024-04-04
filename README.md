@@ -5,12 +5,10 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 ## Languages and Tools
 ### Backend
 <p>
-	<span>
-	<img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NodeJS.png" width="36" height="36" />
-	</span>
-	<span>
-	<img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NodeJS.png" width="36" height="36" />
-	</span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NodeJS.png" width="40" height="40" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/Express.png" width="40" height="38" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/NestJS.png" width="40" height="40" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/PHP.png" width="40" height="40" /></span>
 </p>
 <br><br><br>
 
