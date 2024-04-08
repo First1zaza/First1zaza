@@ -4,7 +4,7 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer and now I keep 
 <br>
 
 ## Contact
-<p><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/Gmail.png" width="24" height="24" /> Email: <a>visarnlerdsiri@gmail.com</a></p>
+<p>Email: <a>visarnlerdsiri@gmail.com</a></p>
 <p>Facebook: Apiwich Visarnlerdsiri</p>
 
 <br>
