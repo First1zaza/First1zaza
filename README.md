@@ -39,6 +39,8 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contac
 ### Tools
 <p>
 	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/Docker.png" width="42" height="42" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/Github.png" width="42" height="42" /></span>
+	<span><img src="https://raw.githubusercontent.com/First1zaza/Icons/main/icons/CloudFlare.png" width="42" height="42" /></span>
 </p>
 
 <br>
