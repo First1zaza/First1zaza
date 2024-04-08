@@ -4,8 +4,8 @@ Hi!👋 I am First. So I am Full-Stack Web Application Developer and now I keep 
 <br>
 
 ## Contact
-<p>Email: <a>visarnlerdsiri@gmail.com</a></p>
-<p>Facebook: Apiwich Visarnlerdsiri</p>
+<p><strong>Email:</strong> visarnlerdsiri@gmail.com</p>
+<p><strong>Facebook:</strong> Apiwich Visarnlerdsiri</p>
 
 <br>
 
