@@ -1,5 +1,5 @@
 # FirstZxD | Web Application Developer 
-Hi!👋 I am First. So I am Full-Stack Web Application Developer and now I keep learning <a><strong>.NET</strong></a> and <a><strong>Swift</strong></a>Swift . Nice to meet you!
+Hi!👋 I am First. So I am Full-Stack Web Application Developer and now I keep learning <a><strong>.NET</strong></a> and <a><strong>Swift</strong></a>Swift. Nice to meet you!
 
 <br>
 
