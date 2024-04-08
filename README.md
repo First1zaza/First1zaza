@@ -1,10 +1,10 @@
 # FirstZxD | Web Application Developer 
-Hi!👋 I am First. So I am Full-Stack Web Application Developer. You can contact me at Email: <a>visarnlerdsiri@gmail.com</a>. Nice to meet you!
+Hi!👋 I am First. So I am Full-Stack Web Application Developer and now I keep learning <a><b>.NET</b></a> and <a><b>Swift</b></a>Swift . Nice to meet you!
 
 <br>
 
 ## Contact
-
+Email: <a>visarnlerdsiri@gmail.com</a>
 <br>
 
 ## Languages and Tools
