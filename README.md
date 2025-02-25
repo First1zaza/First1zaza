@@ -5,4 +5,12 @@
 
 <span>**Facebook**: [Apiwich Visarnlerdsiri](https://www.facebook.com/apiwich.visarnlerdsiri.5)</span><br>
 <span>**Email**: `visarnlerdsiri@gmail.com`</span><br>
-<span>**Tel**: `+66 618289995`</span><br>
+<span>**Tel**: `+66 618289995`</span><be>
+
+<h2>My skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,git,gitlab,jquery,express,nuxt,next,nest,vue,react,swift,bootstrap,tailwind,mysql,mongodb,bun,fastapi,postman,nginx,cloudflare,kubernetes,docker&perline=10" />
+  </a>
+</p>
