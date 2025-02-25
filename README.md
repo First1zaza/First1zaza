@@ -3,7 +3,6 @@
 
 <h2>Contact me</h2>
 <ul>
-<li class="has-line-data">Type some Markdown on the left</li>
-<li class="has-line-data">See HTML in the right</li>
-<li class="has-line-data">✨Magic ✨</li>
+  <li>**Email: **visarnlerdsiri@gmail.com</li>
+  <li>**Tel: **+66618289995</li>
 </ul>
