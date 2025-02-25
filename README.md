@@ -2,9 +2,8 @@
 <p align="center">I'm a Full-Stack Developer and Bachelor's degree student at King Mongkut's University of Technology Thonburi.<br> I'm interested in website application development and cloud infrastructure.</p>
 
 <h2>Contact me</h2>
-<ul>
-  <li>*Email:* visarnlerdsiri@gmail.com</li>
-  <li>*Tel:* +66618289995</li>
-</ul>
 
-**Hello**
+<span>**Facebook**: [Apiwich Visarnlerdsiri](https://www.facebook.com/apiwich.visarnlerdsiri.5)</span><br>
+<span>**LinkedIn**: [Apiwich Visarnlerdsiri](www.linkedin.com/in/apiwich-visarnlerdsiri-789aba167)</span><br>
+<span>**Email**: `visarnlerdsiri@gmail.com`</span><br>
+<span>**Tel**: `+66 618289995`</span><br>
