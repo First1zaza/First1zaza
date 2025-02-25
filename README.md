@@ -4,6 +4,6 @@
 <h2>Contact me</h2>
 
 <span>**Facebook**: [Apiwich Visarnlerdsiri](https://www.facebook.com/apiwich.visarnlerdsiri.5)</span><br>
-<span>**LinkedIn**: [Apiwich Visarnlerdsiri](www.linkedin.com/in/apiwich-visarnlerdsiri-789aba167)</span><br>
+<span>**LinkedIn**: [Apiwich Visarnlerdsiri](https://www.linkedin.com/in/apiwich-visarnlerdsiri-789aba167)</span><br>
 <span>**Email**: `visarnlerdsiri@gmail.com`</span><br>
 <span>**Tel**: `+66 618289995`</span><br>
