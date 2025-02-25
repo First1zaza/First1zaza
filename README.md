@@ -3,6 +3,6 @@
 
 <h2>Contact me</h2>
 <ul>
-  <li>**Email: **visarnlerdsiri@gmail.com</li>
-  <li>**Tel: **+66618289995</li>
+  <li>**Email** visarnlerdsiri@gmail.com</li>
+  <li>**Tel** +66618289995</li>
 </ul>
