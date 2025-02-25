@@ -11,6 +11,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,git,gitlab,jquery,express,nuxt,next,nest,vue,react,swift,bootstrap,tailwind,mysql,mongodb,bun,fastapi,postman,nginx,cloudflare,kubernetes,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,python,git,github,gitlab,jquery,express,nuxt,next,nest,vue,react,swift,bootstrap,tailwind,mysql,mongodb,bun,fastapi,postman,nginx,cloudflare,kubernetes,docker,figma&perline=10" />
   </a>
 </p>
