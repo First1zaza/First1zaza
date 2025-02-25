@@ -7,7 +7,7 @@
 <span>**Email**: `visarnlerdsiri@gmail.com`</span><br>
 <span>**Tel**: `+66 618289995`</span><be>
 
-<h2>My skills</h2>
+<h2>Tools and Languages</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
